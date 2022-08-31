@@ -8,7 +8,8 @@ font-weight: 400;
 .top-bar a{
     color: #A49f96;
 }
-.top-bar a:hover{
+.top-bar a :hover{
     color: red;
 }
+
 /* top-bar stylings */
