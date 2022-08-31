@@ -1,0 +1,14 @@
+/* 89023e */
+
+/* top-bar stylings */
+.top-bar h3{
+color:#89023e ;
+font-weight: 400;
+}
+.top-bar a{
+    color: #A49f96;
+}
+.top-bar a:hover{
+    color: red;
+}
+/* top-bar stylings */
