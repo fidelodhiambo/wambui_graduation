@@ -13,3 +13,16 @@ font-weight: 400;
 }
 
 /* top-bar stylings */
+
+/* slider-images */
+.main-slider img{
+
+    height: 70vh;
+
+}
+/* slider-images */
+.main-slider .carousel-caption{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,0.8550770650056898) 0%, rgba(137,2,62,1) 50%, rgba(45,3,22,0.6982143199076505) 75%);
+
+}
