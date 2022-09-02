@@ -9,7 +9,8 @@ font-weight: 400;
     color: #A49f96;
 }
 .top-bar a :hover{
-    color: red;
+    color: #89023e ;
+    ;
 }
 
 /* top-bar stylings */
@@ -23,6 +24,33 @@ font-weight: 400;
 /* slider-images */
 .main-slider .carousel-caption{
     background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,0.8550770650056898) 0%, rgba(137,2,62,1) 50%, rgba(45,3,22,0.6982143199076505) 75%);
+background: linear-gradient(90deg, rgba(2,0,36,0.5805672610841212) 0%, rgba(137,2,62,1) 50%, rgba(45,3,22,0.6982143199076505) 75%);
 
 }
+
+/* program section styling */
+.program  img{
+
+    height: 300px;
+    opacity: .7;
+}
+
+.program .card:hover img{
+    opacity: 1;
+}
+.program .card:hover .card-body{
+background-color: #89023e;
+color:#ffff;
+transition: .7s ease-in-out;
+}
+/* program section styling */
+
+/* nav bar hover */
+.navbar .navbar-brand{
+    color: #ffff;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,0.5805672610841212) 0%, rgba(137,2,62,1) 50%, rgba(45,3,22,0.6982143199076505) 75%);}
+
+    
+
+/* nav bar hover */
