@@ -78,3 +78,62 @@ transition: .7s ease-in-out;
     background-color: white;
     color: #89023e;
 }
+/* Timetable section stylings  */
+.timetable{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.timetable p.title{
+    background-color: #48CAE4;
+    color: #ffffff;
+}
+
+.timetable img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+/* Timetable section stylings ends */
+
+
+/* Upper footer section */
+.upper-footer{
+    background-color: #1f1f1f;
+    color: #ffffff;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    /* text-align: left; */
+    line-height: 32px;
+}
+
+.upper-footer ul{
+    list-style-type: none;
+}
+
+.upper-footer a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.upper-footer a:hover{
+    color: #48CAE4;
+    text-decoration: underline;
+    margin-left: 8px;
+    transition: .7s ease-in-out;
+}
+/* Upper footer section */
+
+/* Lower footer section */
+.lower-footer{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.lower-footer i{
+    color: #48CAE4;
+}
+.lower-footer a{
+    color: #48CAE4;
+    text-decoration: none;
+}
+/* Lower footer section */
